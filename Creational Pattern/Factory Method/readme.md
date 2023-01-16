@@ -4,7 +4,7 @@ Factory Method adalah Creational Design Pattern yang menyediakan sebuah Interfac
 
 ## Permasalahan 
 
-![alt text](https://raw.githubusercontent.com/taufiqtab/design-pattern/main/Creational%20Pattern/Factory%20Method/img/problem1.png)
+![current](https://raw.githubusercontent.com/taufiqtab/design-pattern/main/Creational%20Pattern/Factory%20Method/img/problem1.png)
 
 ceritanya kita membuat sebuah aplikasi Logistik. <br />
 pada versi pertama, aplikasi kita hanya membuat fitur pengiriman menggunakan Truck, sehingga, semua code kita masukan didalam class Truck, awalnya semua berjalan normal <br />
@@ -15,6 +15,8 @@ umumnnya, kita akan membuat Class baru dengan nama misal Ship, lalu kita duplika
 namun, ketika ada rencana penambahan fitur pengiriman menuggunakan Pesawat, Motor, dan lain lain, hal ini akan membuat struktur code berantakan, karena jika menggunakan cara yang sama seperti sebelumnya, kita harus menduplikasi Class yang ada dan mengubah isinya sesuai kebutuhan dari Class / Fitur baru, lalu mengubah semua Function aplikasi yang berkaitan dengan fitur tsb agar dapat berjalan, dan kita melakukan hal ini terus menerus ketika ada penambahan fitur pengiriman lainnya.
 
 ## Solusi
+
+![solusi](https://raw.githubusercontent.com/taufiqtab/design-pattern/main/Creational%20Pattern/Factory%20Method/img/solution1.png)
 
 
 
