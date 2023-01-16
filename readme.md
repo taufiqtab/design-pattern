@@ -5,7 +5,7 @@ Selamat datang di repository Design Pattern, disini kita akan mencoba mempelajar
 
 untuk lebih lanjut, silahkan gunakan index berikut sebagai navigasi repository :
 
-# Creational Pattern
+## Creational Pattern
 
 Pattern yang menyediakan berbagai mekanisme pembuatan objek, meningkatkan fleksibilitas dan reusability pada code
 
@@ -15,7 +15,7 @@ Pattern yang menyediakan berbagai mekanisme pembuatan objek, meningkatkan fleksi
 4.[Prototype](https://www.github.com/)<br />
 5.[Singleton](https://www.github.com/)<br />
 
-# Structural Pattern
+## Structural Pattern
 
 Pattern yang menjelaskan cara membuat objek dan kelas ke dalam struktur yang lebih besar sekaligus menjaga agar strukturnya tetap fleksibel dan efisien.
 
@@ -27,7 +27,7 @@ Pattern yang menjelaskan cara membuat objek dan kelas ke dalam struktur yang leb
 6.[Flyweight](https://www.github.com/)<br />
 7.[Proxy](https://www.github.com/)<br />
 
-# Behavioral Pattern
+## Behavioral Pattern
 
 Pattern yang berkaitan dengan algoritma dan responsibility antar objek
 
