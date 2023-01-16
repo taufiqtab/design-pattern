@@ -1,6 +1,6 @@
 # Design Pattern
 
-Assalamu'alaikum,
+Assalamu'alaikum,<br />
 Selamat datang di repository Design Pattern, disini kita akan mencoba mempelajari jenis - jenis Design pattern yang terbagi menjadi 3 Jenis, Creational, Structural dan Behavioral.
 
 untuk lebih lanjut, silahkan gunakan index berikut sebagai navigasi repository :
